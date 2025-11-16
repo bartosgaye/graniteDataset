@@ -2,7 +2,23 @@
 
 ## Overview
 
-Welcome to the **GraniTR** dataset, a comprehensive collection curated for the classification of granite slabs. This dataset was collected at the Granitaş Granite Factory in Bilecik, Turkey...
+Welcome to the **GraniTR** dataset, a comprehensive collection curated for the classification of granite slabs. This dataset was collected at the Granitaş Granite Factory in Bilecik, Turkey, with the aim of supporting the development of deep learning models for granite tile classification. It contains 934 images across six distinct granite types:
+
+Aksaray Yaylak
+
+Ankara Fume
+
+Balaban Green
+
+Crema Imperial
+
+Giresun Mink
+
+Hisar Gray
+
+These images were captured under varying conditions (indoor/outdoor) and using different devices (Canon camera, Samsung Galaxy A50, and Huawei Mate 20 Pro) to ensure diversity in resolution, aspect ratio, and color. This variability is essential for training AI models that can effectively distinguish between granite types based on color, texture, and mineral composition.
+
+The GraniTR dataset is intended to help both industry professionals and end-users identify granite slabs more accurately, enhancing the AI model's generalization ability for real-world applications.
 
 ## Dataset Details
 
